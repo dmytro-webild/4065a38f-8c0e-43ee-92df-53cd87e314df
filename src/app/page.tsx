@@ -69,7 +69,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/top-view-tasty-mexican-food-ready-be-served_23-2148614398.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/top-view-tasty-mexican-food-ready-be-served_23-2148614398.jpg?_wi=1"
       showBlur={true}
       avatars={[
         {
@@ -102,7 +102,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="About Tacos los panchos"
       description="Located at 8016 California City Blvd, we bring authentic Mexican flavors to California City. Our commitment to fresh ingredients and traditional recipes has earned us a 5-star reputation in the community."
-      imageSrc="http://img.b2bpic.net/free-photo/business-partners-with-frame-coffee-shop_23-2148366532.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/business-partners-with-frame-coffee-shop_23-2148366532.jpg?_wi=1"
     />
   </div>
 
@@ -118,21 +118,21 @@ export default function LandingPage() {
           name: "Carne Asada Tacos",
           price: "$3.50",
           variant: "Authentic",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-tacos-wooden-background_23-2148629309.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-tacos-wooden-background_23-2148629309.jpg?_wi=1",
         },
         {
           id: "2",
           name: "Al Pastor Tacos",
           price: "$3.50",
           variant: "Authentic",
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-traditional-tacos-arrangement_23-2150799583.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-traditional-tacos-arrangement_23-2150799583.jpg?_wi=1",
         },
         {
           id: "3",
           name: "Fresh Guacamole",
           price: "$6.00",
           variant: "Fresh",
-          imageSrc: "http://img.b2bpic.net/free-photo/mexican-hat-wrapped-tacos-tasty-nachos-salsa-sauce-guacamole-black-slate-red-chilies-table_23-2148042473.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mexican-hat-wrapped-tacos-tasty-nachos-salsa-sauce-guacamole-black-slate-red-chilies-table_23-2148042473.jpg?_wi=1",
         },
         {
           id: "4",
@@ -206,7 +206,7 @@ export default function LandingPage() {
           quote: "Hands down the best tacos in town. Super friendly service and the food is so fresh.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663836.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-tasty-mexican-food-ready-be-served_23-2148614398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-tasty-mexican-food-ready-be-served_23-2148614398.jpg?_wi=2",
           imageAlt: "happy customer eating tacos",
         },
         {
@@ -217,7 +217,7 @@ export default function LandingPage() {
           quote: "I love the al pastor! Reminds me of home. Truly an authentic experience.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-friends-eating-delicious-food_23-2150168094.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-with-frame-coffee-shop_23-2148366532.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-with-frame-coffee-shop_23-2148366532.jpg?_wi=2",
           imageAlt: "happy customer eating tacos",
         },
         {
@@ -228,7 +228,7 @@ export default function LandingPage() {
           quote: "Fast service, reasonable prices, and the best guacamole I've had in a long time.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/male-woman-having-good-time_23-2148395388.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-tacos-wooden-background_23-2148629309.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-tacos-wooden-background_23-2148629309.jpg?_wi=2",
           imageAlt: "happy customer eating tacos",
         },
         {
@@ -239,7 +239,7 @@ export default function LandingPage() {
           quote: "Clean, welcoming, and the menu selection is perfect. Will be back!",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-female-blogger-listens-audio-song-modern-headphones-uses-smart-phone-installing-new-application-uses-free-internet-while-rectreats-coffee-shop-with-tasty-smoothie-cocktail_273609-2466.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-traditional-tacos-arrangement_23-2150799583.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-traditional-tacos-arrangement_23-2150799583.jpg?_wi=2",
           imageAlt: "happy customer eating tacos",
         },
         {
@@ -250,7 +250,7 @@ export default function LandingPage() {
           quote: "Simply wonderful. Everything tastes freshly made and the flavors are spot on.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-taking-selfie_23-2149250086.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/mexican-hat-wrapped-tacos-tasty-nachos-salsa-sauce-guacamole-black-slate-red-chilies-table_23-2148042473.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mexican-hat-wrapped-tacos-tasty-nachos-salsa-sauce-guacamole-black-slate-red-chilies-table_23-2148042473.jpg?_wi=2",
           imageAlt: "happy customer eating tacos",
         },
       ]}
